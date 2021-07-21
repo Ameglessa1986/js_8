@@ -1,0 +1,40 @@
+body {
+    background-image:url(https://million-wallpapers.ru/wallpapers/5/14/13129903005159199433/doski-i-skatert-na-stole.jpg);
+    }
+.flex-container {
+    display: inherit; 
+    padding: 30px;
+    justify-content: center;
+  }
+
+  .item {
+    list-style-type: none;
+   padding: 10px;
+   background-image: url(https://funart.pro/uploads/posts/2020-04/thumbs/1587041788_35-p-tetradnie-foni-98.png);
+}
+
+.text {
+    text-decoration:underline;
+    padding-bottom: 20px;
+    color:rgb(8, 8, 8);
+    text-align:center; 
+
+}
+
+
+.item, p {
+    text-align: center;
+    color: #834a08;
+  }
+
+
+  .dilay{
+    text-align: center;
+    color:black;
+    }
+    .text-block {
+      background-color:#b68f60e6;;
+      padding-bottom:20px;
+      padding-top: 20px;
+    
+    }
